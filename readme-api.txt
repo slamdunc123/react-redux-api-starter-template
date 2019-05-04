@@ -25,6 +25,9 @@ Setting up api-to-redux connection (example)
     call fetchApiPosts function in componentDidMount hook
 
 - Add component to navigation
+    import into src/components/layout/Main.js and create root
+    add link to navigation file src/components/partials/Navigation.js
+
 
 
 
